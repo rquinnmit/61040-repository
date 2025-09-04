@@ -1,17 +1,9 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
-
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+*My name is Ryan Quinn. I'm an MIT junior who is interested in AI, machine learning, and entrepreneurship. I like to exercise, DJ, and socialize with friends in my spare time.
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+1. I'm on the MIT lacrosse team
+2. I have a twin sister
+3. I'm from Syracuse, NY
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
-
-
-# Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
+![lacrosse headshot]([https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmitathletics.com%2Fsports%2Fmens-lacrosse%2Froster%2Fryan-quinn%2F13328&psig=AOvVaw0S4PE_k8jvbL5FwOtmUbER&ust=1757050080631000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiSwOWvvo8DFQAAAAAdAAAAABAL))
