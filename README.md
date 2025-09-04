@@ -6,4 +6,4 @@ Some fun facts about me:
 2. I have a twin sister
 3. I'm from Syracuse, NY
 
-![lacrosse headshot]([https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmitathletics.com%2Fsports%2Fmens-lacrosse%2Froster%2Fryan-quinn%2F13328&psig=AOvVaw0S4PE_k8jvbL5FwOtmUbER&ust=1757050080631000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiSwOWvvo8DFQAAAAAdAAAAABAL))
+![headshot]([https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmitathletics.com%2Fsports%2Fmens-lacrosse%2Froster%2Fryan-quinn%2F13328&psig=AOvVaw0S4PE_k8jvbL5FwOtmUbER&ust=1757050080631000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiSwOWvvo8DFQAAAAAdAAAAABAL))
