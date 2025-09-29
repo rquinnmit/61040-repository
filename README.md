@@ -13,3 +13,5 @@ Link to Assignment 1: https://github.com/rquinnmit/61040-repository/blob/main/as
 Link to Problem Set 1: https://github.com/rquinnmit/61040-repository/blob/main/problem_sets/problem_set1.md
 
 Link to Problem Set 2: https://github.com/rquinnmit/61040-repository/blob/main/problem_sets/problem_set2.md
+
+Link to Assignment 2: https://github.com/rquinnmit/61040-repository/blob/main/assignments/assignment2.md
