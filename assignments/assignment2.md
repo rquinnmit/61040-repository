@@ -169,9 +169,9 @@ Brief Note: The MusicAssetCatalog concept allows users to store tracks that they
 
 ## UI Sketches
 
-![image1]("assets/crate_pilot_discovery.png")
-![image2]("assets/crate_pilot_library.png")
-![image3]("assets/crate_pilot_export.png")
+![image1](/assets/crate_pilot_discovery.png)
+![image2](/assets/crate_pilot_library.png)
+![image3](/assets/crate_pilot_export.png)
 
 ## User Journey
 A club DJ has a huge gig for the next weekend. They want to freshen up their playlists with new songs that the audience will love. After hours of searching through Beatport and Beatsource libraries, they compile a set of songs they enjoy. Now, they have to skim through their selected songs to find which ones blend together and which ones don’t.
