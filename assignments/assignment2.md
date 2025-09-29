@@ -167,13 +167,13 @@ then TransitionScoring.score(plan, track1, track2) for each adjacent pair of tra
 ```
 Brief Note: The MusicAssetCatalog concept allows users to store tracks that they’ve imported and crates that they have generated using our platform. This allows for better organization and is a place where we can store song’s metadata, which is very important when generating recommendations for a crate. The CratePlanning concept is the essence of our design. It prompts the user to enter the specifications of the crate they want to generate (labeled “prompt”) and allows them to enter sample (seed) songs as reference. Our platform analyzes the seed tracks, digests the prompt, and uses AI to output a crate that matches the specifications. We can then request feedback from the user to improve the quality of future generated crates. TransitionScoring will be used alongside CratePlanning to recommend tracks that a user should or should not blend. It uses a scoring technique to do this. Once a plan is finalized, PlanExporter allows the user to transfer their plan to their DJ software of choice (Rekordbox, Serato, etc.) in an easy way. Authorization with passwords will be used to verify users on the site and store their information.
 
-UI Sketches
+## UI Sketches
 
-![image1](".\crate_pilot_discovery.png")
-![image2]("C:\Users\pyanq\Downloads\crate_pilot_library.png")
-![image3]("C:\Users\pyanq\Downloads\crate_pilot_export.png")
+![image1]("assets/crate_pilot_discovery.png")
+![image2]("assets/crate_pilot_library.png")
+![image3]("assets/crate_pilot_export.png")
 
-User Journey
+## User Journey
 A club DJ has a huge gig for the next weekend. They want to freshen up their playlists with new songs that the audience will love. After hours of searching through Beatport and Beatsource libraries, they compile a set of songs they enjoy. Now, they have to skim through their selected songs to find which ones blend together and which ones don’t.
 
 The next week, this DJ decides to take a different approach to song selection. They find themselves on the CratePilot homepage, which broadcasts the effectiveness of the platform with descriptions and live demos. They proceed with creating a CratePilot account and authorizing with an email and password. This DJ is then taken to the Discovery page of CratePilot, which contains the prompt box and the customizable selection criteria. The DJ enters their desired song type (tech house, 124-128 BPM, rooftop at nighttime) and inputs a few seed tracks that they’ve used before (in the genre they are looking for). Our AI program will think and output a set of tracks that span the desired set length and match the specifications in the prompt. Note that our program will not mix the songs automatically, but rather provide the user with songs that will hopefully blend.
